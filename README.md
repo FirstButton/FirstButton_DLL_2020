@@ -9,7 +9,7 @@ DLL Documentation.pdf  - covers the parameters that are used to call the FirstBu
 
   		  FirstButton.dll - unsigned DLL, compatible with Windows 98/Me/NT/2000
 
-================================================================================================================
+
 For updates, please visit firstbutton.com .
 
 (c) 2015-2017, 2019, 2020 Liquidity Lighthouse, LLC.
