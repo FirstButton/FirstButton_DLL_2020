@@ -7,7 +7,7 @@ DLL Documentation.pdf  - covers the parameters that are used to call the FirstBu
 
 		  FirstButton.sln  FirstButton.sou
 
-  		  FirstButton.dll - unsigned DLL, compatible with Windows 98/Me/NT/2000
+  		  FirstButton.dll - unsigned DLL, compatible with Windows 98/Me/NT/2000/XP/Vista/7/10
 
 
 For updates, please visit firstbutton.com .
