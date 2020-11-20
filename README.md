@@ -1,5 +1,5 @@
 # FirstButton_DLL
-DLL version of FirstButton Toolbar Installer
+DLL version of FirstButton Toolbar Button Installer
 
 DLL Documentation.pdf  - covers the parameters that are used to call the FirstButton.dll, and error code definitions.
 
